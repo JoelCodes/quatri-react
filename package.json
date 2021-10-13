@@ -1,0 +1,8 @@
+{
+  "name": "quatri",
+  "version": "1.0.0",
+  "description": "Quatri in React",
+  "main": "index.js",
+  "author": "JoelCodes <amnshinness@yahoo.com>",
+  "license": "MIT"
+}
